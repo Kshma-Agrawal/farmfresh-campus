@@ -3,8 +3,8 @@
 FarmFresh@Campus is a pilot digital platform designed to connect local farmers with consumers within the university ecosystem for distribution of fresh agricultural produce.
 
 ## Project Status
-Currently in design and planning phase.  
-User flows and UI design are under development.
+Design Flows for Farmer and Consumer module is completed 
+Currently started frontend for both modules and start Planning for Admin module
 
 ## Problem
 Distribution of farm produce in the university ecosystem is manual and unstructured, leading to poor visibility, coordination issues, and wastage.
@@ -21,12 +21,14 @@ The platform will enable:
 - Consumer module
 - Farmer module
 - Admin module
-- Counselling module
 
 ## Technology (Planned)
-Frontend: HTML/CSS/JavaScript  
-Backend: Python (Flask)  
-Database: SQLite/MySQL  
+Frontend: React.js (Vite), HTML5, CSS3, JavaScript  
+Routing: React Router  
+State Management: React Context API  
+Backend: Python (Flask)
+Database: SQLite (development) / MySQL (production)
+Development Tools: Node.js, npm, VS Code
 
 ## Team
 Mindfull Machines
