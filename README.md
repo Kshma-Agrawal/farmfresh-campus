@@ -28,8 +28,6 @@ Routing: React Router
 State Management: React Context API  
 Backend: Python (Flask)
 Database: SQLite (development) / MySQL (production)
-Development Tools: Node.js, npm, VS Code
-State Management: React Context API
 UI Design: Figma  
 
 ## Team
