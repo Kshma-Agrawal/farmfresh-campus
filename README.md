@@ -29,6 +29,7 @@ State Management: React Context API
 Backend: Python (Flask)
 Database: SQLite (development) / MySQL (production)
 Development Tools: Node.js, npm, VS Code
+UI Design: Figma  
 
 ## Team
 Mindfull Machines
