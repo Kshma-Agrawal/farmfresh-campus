@@ -28,6 +28,8 @@ src/
 ├── App.jsx                  # All routes
 ├── main.jsx                 # Entry point
 ├── index.css                # Global styles
+├── assets/                  # assets used
+    └── images.png            
 ├── context/
 │   └── CartContext.jsx      # Cart state (React Context)
 ├── data/
